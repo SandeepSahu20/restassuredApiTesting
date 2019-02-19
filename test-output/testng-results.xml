@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5750" started-at="2019-02-18T11:09:21Z" finished-at="2019-02-18T11:09:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5750" started-at="2019-02-18T11:09:21Z" finished-at="2019-02-18T11:09:27Z">
+      <class name="com.qa.restassuredApiTesting.GetAPITestRestAssured">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qa.restassuredApiTesting.GetAPITestRestAssured@4520ebad]" name="beforeMethod" is-config="true" duration-ms="12" started-at="2019-02-18T11:09:21Z" finished-at="2019-02-18T11:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testWithoutHeader()[pri:1, instance:com.qa.restassuredApiTesting.GetAPITestRestAssured@4520ebad]" name="testWithoutHeader" duration-ms="4887" started-at="2019-02-18T11:09:21Z" finished-at="2019-02-18T11:09:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithoutHeader -->
+        <test-method status="PASS" signature="testWithHeader()[pri:2, instance:com.qa.restassuredApiTesting.GetAPITestRestAssured@4520ebad]" name="testWithHeader" duration-ms="799" started-at="2019-02-18T11:09:26Z" finished-at="2019-02-18T11:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithHeader -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qa.restassuredApiTesting.GetAPITestRestAssured@4520ebad]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-02-18T11:09:26Z" finished-at="2019-02-18T11:09:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+      </class> <!-- com.qa.restassuredApiTesting.GetAPITestRestAssured -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
